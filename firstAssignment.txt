@@ -1,0 +1,28 @@
+                 *********History of Vi text Editor**********
+___________
+Introdution
+-----------
+
+Vi is a screen-oriented text editor originally created for the Unix operating system.
+
+*****Bill Joy :Cofounder of Sun systems*****
+The original code for vi was written by Bill Joy in 1976.
+As the visual mode for a line editor called ex that Joy had written with Chuck Haley.
+
+## Background ## the name "vi" is derived from the shortest unambiguougs abbreviation for the ex command v
+isual. Which switches the ex line editor to visual mode. In addition to various non-free software variants
+of vi distributed with proprietary implementations of Unix.
+
+^^^^^^^^^^^
+Open Source
+^^^^^^^^^^^
+Vi was opensourced with OpenSolaris, and several free and open source software vi clones exist.
+Joy described 2.0 (vi) as a very large program, barely able to fir in the memeory of a PDP-11/70.
+Although vi maybe regarded as a small lightweight, program today, it was not seen that way early in i
+ts history.
+
+***Interesting facts***
+By version 3.1, shipped with 3BSD in December 1979, the full version of vi was no longer able to fit in
+the memory of a PDP-11. The editor would be also too big to run on PC/IX for the IBM PC in 1984.
+
+			*******Happy learning*********
